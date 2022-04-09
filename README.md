@@ -10,7 +10,7 @@
 hkimi02/hkimi02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>programming lunguages and tools : </h1>
+<h1>programming languages and tools : </h1>
 <a href="https://devdocs.io/c/"><img src="https://img.icons8.com/color/452/c-programming.png" height=80px width=80px>
 <a href="https://www.javascript.com"><img src="https://img.icons8.com/color/344/javascript--v1.png" height=80px width=80px>
 <a href="https://www.python.org"><img src="https://img.icons8.com/color/344/python--v1.png" height=80px width=80px>
