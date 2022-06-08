@@ -6,6 +6,7 @@
 - <a href="https://www.linkedin.com/in/mohamed-amin-hkimi-18ba1b229/"><img src="https://img.icons8.com/color/344/linkedin.png" height=100px width=100px></a>
 <a href="https://www.instagram.com/hkimi_amin/"><img src="https://img.icons8.com/color/2x/instagram-new.png" height=100px width=100px></a>
 <a href="https://www.facebook.com/mohamedamin.hkimi.5/"><img src="https://img.icons8.com/color/2x/facebook.png" height=100px width=100px></a>
+<a href="https://www.reddit.com/user/hkimi_amin02"><img src="![image](https://user-images.githubusercontent.com/96321002/172707104-ddb98666-ba2a-4d92-be52-9df183f861a8.png)" height=100px width=100px></a>
 <!---
 hkimi02/hkimi02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
