@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkimi02&theme=dark&" alt="hkimi02" /></p>
 <img alt="talel" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hkimi02"/>
-<img alt="hkimi02"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hkimi02&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
+<img alt="hkimi02"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hkimi02&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
