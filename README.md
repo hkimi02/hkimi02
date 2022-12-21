@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hkimi amin</h1>
-<h3 align="center">IT student and a growing developer</h3>
+<h3 align="center">IT student and a passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkimi02&label=Profile%20views&color=0e75b6&style=flat&" alt="hkimi02" /> </p>
 
