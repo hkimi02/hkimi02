@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **scouts-zarzis**
 
-- 🌱 I’m currently learning **laravel,vuetify**
+- 🌱 I’m currently learning **laravel,springboot**
 
 - 📫 How to reach me **hkimiamin02@gmail.com**
 
