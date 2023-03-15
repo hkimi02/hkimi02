@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hkimi amin</h1>
 <h3 align="center">IT student and a growing developer</h3>
 
-- 🔭 I’m currently working on **scouts-zarzis**
+- 🔭 I’m currently working on **MyEduConnect**
 
 - 🌱 I’m currently learning **laravel,springboot**
 
