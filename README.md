@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MyEduConnect**
 
-- 🌱 I’m currently learning **laravel,springboot**
+- 🌱 I’m currently learning **react,springboot**
 
 - 📫 How to reach me **hkimiamin02@gmail.com**
 
