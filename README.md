@@ -16,9 +16,9 @@
 <a href="https://instagram.com/hkimi_amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hkimi_amin" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,html,css,vscode,github,git,linux,kotlin,flutter" />
+    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,html,css,vscode,github,git,linux,kotlin,flutter,python,adobexd" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,mysql,angular,laravel,php" /><br>
 </div>
 
