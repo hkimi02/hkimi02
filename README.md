@@ -23,11 +23,4 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkimi02&show_icons=true&locale=en&theme=dark&layout=compact" alt="hkimi02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hkimi02&show_icons=true&theme=dark&locale=en" alt="hkimi02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkimi02&theme=dark&" alt="hkimi02" /></p>
-<img alt="talel" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hkimi02"/>
-<img alt="hkimi02"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hkimi02&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=hkimi02&theme=github-compact"/>
