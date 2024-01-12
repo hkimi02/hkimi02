@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hkimi amin</h1>
 <h3 align="center">IT student and a <strong>growing developer</strong></h3>
 <div align="center">
-- 🔭 I’m currently working on **DIGITAL MARKET**
+- 🔭 I’m currently working on **GIFT TREE**
 
 - 📫 How to reach me **hkimiamin02@gmail.com**
 </div>
