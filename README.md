@@ -27,6 +27,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,html,css,vscode,github,git,linux,kotlin,flutter,python,adobeXD" />
+    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,html,css,vscode,github,git,linux,kotlin,flutter,python,adobeXD,react" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,mysql,angular,laravel,php" /><br>
 </div>
