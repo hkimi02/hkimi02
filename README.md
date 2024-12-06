@@ -22,6 +22,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,html,css,vscode,github,git,linux,kotlin,flutter,python,nestjs,react" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,mysql,angular,laravel,php," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,php" alt="Languages" />
+     <img src="https://skillicons.dev/icons?i=vuejs,react,angular,laravel,nestjs,express,symfony" alt="Frameworks" />
+     <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,intellij,git,github,linux,bootstrap,mysql,mongodb,nodejs,apache,nginx" alt="Tools" />
 </div>
