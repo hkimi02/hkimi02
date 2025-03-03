@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hkimi amin</h1>
-<h3 align="center">IT student and a <strong>Full Stuck developer</strong></h3>
+<h3 align="center">Software Engineering Student FUll Stack Web Developer @UTEEK</strong></h3>
 
 - 📫 How to reach me **hkimiamin02@gmail.com**
 </div>
@@ -24,5 +24,5 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,php" alt="Languages" />
      <img src="https://skillicons.dev/icons?i=vuejs,react,angular,laravel,nestjs,express,symfony" alt="Frameworks" />
-     <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,git,github,linux,ubuntu,bootstrap,mysql,mongodb,nodejs,apache,nginx" alt="Tools" />
+     <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,git,github,linux,ubuntu,bootstrap,mysql,mongodb,nodejs,nginx" alt="Tools" />
 </div>
