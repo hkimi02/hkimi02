@@ -24,5 +24,5 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,php" alt="Languages" />
      <img src="https://skillicons.dev/icons?i=vuejs,react,angular,laravel,nestjs,express,symfony" alt="Frameworks" />
-     <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,intellij,git,github,linux,bootstrap,mysql,mongodb,nodejs,apache,nginx" alt="Tools" />
+     <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,git,github,linux,ubuntu,bootstrap,mysql,mongodb,nodejs,apache,nginx" alt="Tools" />
 </div>
