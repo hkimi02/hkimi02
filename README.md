@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hkimi amin</h1>
-<h3 align="center">Software Engineering Student FUll Stack Web Developer @UTEEK</strong></h3>
+<h3 align="center">Software Engineering Student Full Stack Web Developer @UTEEK</strong></h3>
 
 - 📫 How to reach me **hkimiamin02@gmail.com**
 </div>
