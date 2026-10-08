@@ -1,28 +1,97 @@
-<h1 align="center">Hi 👋, I'm hkimi amin</h1>
-<h3 align="center">Full Stack Web Developer @UTEEK</strong></h3>
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Amin%20Hkimi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20systems%20%E2%80%A2%20LLM%20%26%20RAG%20%E2%80%A2%20Agentic%20workflows%20%E2%80%A2%20Full-stack%20SaaS&descAlignY=58&descSize=16" width="100%" />
 
-- 📫 How to reach me **hkimiamin02@gmail.com**
-</div>
+<!-- Typing animation -->
 <p align="center">
-  <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Amin;I+build+production+LLM+%26+RAG+systems;Agentic+AI+%E2%80%A2+FastAPI+%E2%80%A2+LangChain+%E2%80%A2+Qdrant;Shipping+SaaS+for+clients+in+France+%26+North+Africa;Open+to+opportunities+in+Europe+%F0%9F%87%AA%F0%9F%87%BA" alt="Typing SVG" />
+  </a>
 </p>
 
-
-
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/hkimiamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hkimiamin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-amin-hkimi-18ba1b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-amin-hkimi-18ba1b229/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17563314/mohamed-amin-hkimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17563314/mohamed-amin-hkimi" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mohamedamin.hkimi.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamedamin.hkimi.5/" height="30" width="40" /></a>
-<a href="https://instagram.com/hkimi_amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hkimi_amin" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hkimi02&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="mailto:hkimiamin02@gmail.com"><img src="https://img.shields.io/badge/Email-hkimiamin02%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Tunis%20%F0%9F%87%B9%F0%9F%87%B3-2c5364?style=flat" />
 </p>
 
+---
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,php" alt="Languages" />
-     <img src="https://skillicons.dev/icons?i=vuejs,react,angular,laravel,nestjs,express,symfony" alt="Frameworks" />
-     <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,git,github,linux,ubuntu,bootstrap,mysql,mongodb,nodejs,nginx,aws,redis" alt="Tools" />
-</div>
+## 🧭 About me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
+
+- 🤖 I design and ship **production AI systems**: RAG pipelines, private LLM deployments and agentic workflows
+- 🏗️ Since 2023 I've been building **production SaaS** for clients in France and North Africa
+- 🎓 Engineering cycle at **ITEAM University** (2024 → 2027) · Licence in Information Systems Development, **ISET Bizerte**, ranked first in my class
+- 🌍 Open to **AI Engineer / Forward Deployed Engineer** roles and freelance missions.
+- 📫 Reach me at **hkimiamin02@gmail.com**
+
+<br clear="right"/>
+
+## 🛠️ Languages & Tools
+
+<p align="center"><b>AI / LLM</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,php,java,c,html,css&perline=8" alt="Languages" />
+</p>
+
+<p align="center"><b>Frameworks</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,react,laravel,spring,nestjs,express,vue,angular,symfony&perline=9" alt="Frameworks" />
+</p>
+
+<p align="center"><b>Infra, data & tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,postgres,mysql,mongodb,redis,nginx,linux,git,github,githubactions&perline=11" alt="Tools" />
+</p>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hkimi02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkimi02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hkimi02&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkimi02&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
+</p>
+
+<!-- Contribution snake: generated by .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hkimi02/hkimi02/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hkimi02/hkimi02/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/hkimi02/hkimi02/output/github-snake.svg" />
+  </picture>
+</p>
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-amin-hkimi-18ba1b229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/hkimiamin" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/17563314/mohamed-amin-hkimi" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://instagram.com/hkimi_amin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/mohamedamin.hkimi.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine" /></a>
+</p>
+
+<!-- Animated wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
